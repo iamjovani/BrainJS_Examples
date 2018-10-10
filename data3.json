@@ -1,0 +1,70 @@
+  [
+    {
+      "text": "The Cat meaow!",
+      "category": "Animal"
+    },
+    {
+      "text": "The Dog bit tom",
+      "category": "Animal"
+    },
+    {
+      "text": "The Rabbit ran away",
+      "category": "Animal"
+    },
+    {
+      "text": "The Bee stung harry",
+      "category": "Insect"
+    },
+    {
+      "text": "Mosquitos are vegitarians",
+      "category": "Insect"
+    },
+    {
+      "text": "Flies are not relatives of Mosquitos",
+      "category": "Insect"
+    },
+    {
+      "text": "The Cat eat the Rat",
+      "category": "Animal"
+    },
+    {
+      "text": "Cats are amazing!",
+      "category": "Animal"
+    },
+    {
+      "text": "I love Dogs",
+      "category": "Animal"
+    },
+    {
+      "text": "Rabbits are cute!",
+      "category": "Animal"
+    },
+    {
+      "text": "I find Flies disgusting!",
+      "category": "Insect"
+    },
+    {
+      "text": "Bees make honey",
+      "category": "Insect"
+    },
+    {
+      "text": "Lions are the king of the jungle",
+      "category": "Animal"
+    }, 
+    {
+        "text": "Roaches can live without their head",
+        "category":"Insect"
+    },
+    {
+        "text": "The Tiger roars!",
+        "category" : "Animal"
+    },
+    {
+        "text": "I love every Animal",
+        "category": "Animal"
+    },
+    {
+      "text": "As sly as a Fox",
+      "category": "Animal"
+    }
+  ]
